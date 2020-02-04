@@ -64,5 +64,5 @@ lean up
 [2]: https://www.typescriptlang.org/
 [3]: https://leancloud.cn/
 [4]: https://david-dm.org/wuhan2020/rest-api
-[5]: https://github.com/wuhan2020/rest-api/actions
+[5]: https://travis-ci.com/wuhan2020/rest-api
 [6]: https://fcc-cd.tk/
